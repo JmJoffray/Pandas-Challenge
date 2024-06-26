@@ -1,5 +1,6 @@
 # pandas-challenge
 Written Report: 
+
 Observation 1
 According to the data, Students at charter schools perform better in their academics than students who attend District schools. At Charter Schools, the percent of students passing both math and reading (90.43%) is nearly double the number of students passing math and reading at district schools (53.67%)
 
